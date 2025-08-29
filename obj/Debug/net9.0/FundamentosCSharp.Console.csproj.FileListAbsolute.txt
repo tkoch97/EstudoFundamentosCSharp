@@ -1,0 +1,14 @@
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\bin\Debug\net9.0\FundamentosCSharp.Console.exe
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\bin\Debug\net9.0\FundamentosCSharp.Console.deps.json
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\bin\Debug\net9.0\FundamentosCSharp.Console.runtimeconfig.json
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\bin\Debug\net9.0\FundamentosCSharp.Console.dll
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\bin\Debug\net9.0\FundamentosCSharp.Console.pdb
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.AssemblyInfoInputs.cache
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.AssemblyInfo.cs
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.dll
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\refint\FundamentosCSharp.Console.dll
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.pdb
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.genruntimeconfig.cache
+C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\ref\FundamentosCSharp.Console.dll
