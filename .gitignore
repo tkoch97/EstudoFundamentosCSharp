@@ -53,3 +53,6 @@ Thumbs.db
 
 # Global tool restore
 .dotnet_tool/
+
+Debug/
+obj/

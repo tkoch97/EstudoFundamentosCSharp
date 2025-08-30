@@ -12,3 +12,4 @@ C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp
 C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.pdb
 C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.genruntimeconfig.cache
 C:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCsharp.Console\obj\Debug\net9.0\ref\FundamentosCSharp.Console.dll
+c:\Users\Thiago\Programing\Study\Método.Net\FundamentosCsharp\FundamentosCSharp.Console\obj\Debug\net9.0\FundamentosCSharp.Console.sourcelink.json
