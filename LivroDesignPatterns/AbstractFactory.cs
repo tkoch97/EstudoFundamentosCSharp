@@ -76,8 +76,8 @@
 //     {
 //       Console.WriteLine("Hilux 2.0 Diesel escolhida");
 
-//       HiluxDoisPontoZero motor = new HiluxDoisPontoZero();
-//       HiluxDiesel combustivel = new HiluxDiesel();
+//       var motor = new HiluxDoisPontoZero();
+//       var combustivel = new HiluxDiesel();
 //       motor.TipoDeMotor();
 //       combustivel.TipoDeCombustivel();
 //     }
