@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosCSharp.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+180970f986122fa883881e1638aa6abbf128865b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+023ad958284d9cf5e1a69a1bfb066f16beb1ed5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosCSharp.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosCSharp.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
